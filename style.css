@@ -1,0 +1,48 @@
+.grid {
+  display:flex;
+  flex-wrap: wrap;
+  width: 560px;
+  height: 560px;
+  border: solid black;
+}
+
+.grid div {
+  width: 20px;
+  height: 20px;
+}
+.pac-dot {
+  background-color: green;
+  border: 5px solid white;
+  box-sizing: border-box;
+}
+
+.wall {
+  background-color: blue;
+}
+
+.power-pallet {
+  background-color: green;
+  border-radius: 10px;
+}
+
+.pac-man {
+  background-color: yellow;
+}
+
+
+.Solair {
+  border: 0px;
+  background-color: yellow;
+}
+.Kirby {
+  border: 0px;
+  background-color: pink;
+}
+.Snake {
+  border: 0px;
+  background-color: #86af49
+}
+.Sekiro {
+  border: 0px;
+  background-color: black;
+}
